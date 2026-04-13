@@ -340,16 +340,34 @@ async function submitEval() {
   var correct = results.filter(function(r) { return r.correct; }).length;
   var total = results.length;
 
-  // Send to Google Sheets
+  // Send to Google Sheets via hidden iframe form (bypasses CORS)
   try {
-    await fetch(SHEETS_WEBHOOK, {
-      method: 'POST',
-      mode: 'no-cors',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ evaluator: evaluatorName, results: results })
-    });
+    var iframe = document.createElement('iframe');
+    iframe.name = 'sheets_target';
+    iframe.style.display = 'none';
+    document.body.appendChild(iframe);
+
+    var form = document.createElement('form');
+    form.method = 'POST';
+    form.action = SHEETS_WEBHOOK;
+    form.target = 'sheets_target';
+
+    var input = document.createElement('input');
+    input.type = 'hidden';
+    input.name = 'data';
+    input.value = JSON.stringify({ evaluator: evaluatorName, results: results });
+    form.appendChild(input);
+
+    document.body.appendChild(form);
+    form.submit();
+
+    // Cleanup after a delay
+    setTimeout(function() {
+      document.body.removeChild(form);
+      document.body.removeChild(iframe);
+    }, 5000);
   } catch (e) {
-    console.error('Sheets submission error:', e);
+    console.log('Sheets submission error:', e);
   }
 
   // Also download JSON backup
