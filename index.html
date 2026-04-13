@@ -200,22 +200,47 @@ async function startEval() {
   btn.disabled = true;
   btn.textContent = 'Loading...';
 
+  // Load manifest
   var resp = await fetch('manifest.json');
   manifest = await resp.json();
+
+  // Fetch usage counts from Google Sheets
+  var usageCounts = {};
+  try {
+    var sheetResp = await fetch(SHEETS_WEBHOOK);
+    usageCounts = await sheetResp.json();
+  } catch (e) {
+    console.warn('Could not fetch usage counts, using random sampling:', e);
+  }
 
   var byCat = {};
   manifest.forEach(function(item, idx) {
     item._idx = idx;
+    item._usageCount = usageCounts[item.video_file] || 0;
     if (!byCat[item.category]) byCat[item.category] = [];
     byCat[item.category].push(item);
   });
 
+  // Sample: prioritize least-used items per category
   selectedItems = [];
   CATEGORIES.forEach(function(cat) {
     var pool = byCat[cat] || [];
-    shuffle(pool);
-    var n = Math.min(numPerCat, pool.length);
-    for (var i = 0; i < n; i++) selectedItems.push(pool[i]);
+    // Sort by usage count (ascending), then shuffle within same count
+    pool.sort(function(a, b) { return a._usageCount - b._usageCount; });
+    // Group by count and shuffle within groups
+    var groups = {};
+    pool.forEach(function(item) {
+      var c = item._usageCount;
+      if (!groups[c]) groups[c] = [];
+      groups[c].push(item);
+    });
+    var sorted = [];
+    Object.keys(groups).sort(function(a,b){return a-b;}).forEach(function(k) {
+      shuffle(groups[k]);
+      sorted = sorted.concat(groups[k]);
+    });
+    var n = Math.min(numPerCat, sorted.length);
+    for (var i = 0; i < n; i++) selectedItems.push(sorted[i]);
   });
 
   // Shuffle all selected items for mixed difficulty experience
