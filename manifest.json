@@ -1,0 +1,3629 @@
+[
+  {
+    "video_file": "153_1_001_qa0008.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Who does Person 3 point at between 1.5 and 13.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 4",
+      "D) No one"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "153_1_002_qa0008.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 3 perform towards Person 0 between 2.0 and 4.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "153_1_003_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 4 looking at at 14.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 3",
+      "D) No one"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "153_2_001_qa0007.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 0 perform between 1.0 and 3.5 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "170_1_001_qa0008.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Which person holds up an object between 2.5 and 5.5 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "170_1_002_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 0 making eye contact with between 1.0 and 7.5 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) No one"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "170_1_004_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 0 looking at between 2.5 and 6.0 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) No one"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "170_1_004_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the visual interaction between Person 0 and Person 1 from 2.0 to 5.5 seconds?",
+    "options": [
+      "A) They are looking at the same thing",
+      "B) They are looking at each other",
+      "C) One is following the other's gaze",
+      "D) They both look away simultaneously"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "170_1_004_qa0002.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What happens to the gaze of Person 0, Person 1, and Person 3 at exactly 2.0 seconds?",
+    "options": [
+      "A) They make eye contact with each other",
+      "B) They all look at the floor",
+      "C) They all suddenly shift their gaze",
+      "D) They close their eyes"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "171_1_002_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 0 looking at during the eye contact event between 2.0s and 5.0s?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) No one"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "178_1_001_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "What is Person 0 pointing at between 3.0 and 7.0 seconds?",
+    "options": [
+      "A) An object",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Themselves"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "178_1_002_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Person 0, Person 2, and Person 3 between 2.5s and 3.0s?",
+    "options": [
+      "A) Looking at each other",
+      "B) Following someone's gaze",
+      "C) Looking at the same thing",
+      "D) Quickly changing gaze direction"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "178_1_002_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Between 1.5 and 3.0 seconds, which two people are pointing at Person 3?",
+    "options": [
+      "A) Person 1 and Person 3",
+      "B) Person 1 and Person 2",
+      "C) Person 2 and Person 3",
+      "D) Person 0 and Person 1"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "178_2_001_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "At 2.0s, who is Person 0 looking at?",
+    "options": [
+      "A) Person 1",
+      "B) Person 3",
+      "C) The camera",
+      "D) No one"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "178_2_001_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Who initiates the pointing gesture directed at Person 2 between 3.0 and 8.0 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 3",
+      "C) Person 0",
+      "D) An off-screen person"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "197_1_001_qa0008.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Which person reaches for an object between 0.0 and 2.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "199_1_001_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Which person reaches for an object between 2.5 and 7.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 4",
+      "D) Person 5"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "199_2_001_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 0 looking at between 2.5s and 4.0s?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "199_2_001_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 2 perform starting at 1.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game6_001_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 1 looking at between 3.0 and 5.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 4",
+      "D) No one"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game6_001_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes Person 2's gaze behavior between 1.5 and 2.0 seconds?",
+    "options": [
+      "A) Quickly changes gaze direction",
+      "B) Makes eye contact with Person 1",
+      "C) Follows Person 0's gaze",
+      "D) Looks at the same thing as Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game6_001_qa0008.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Between 3.0 and 5.5 seconds, who does Person 1 point at?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 4",
+      "D) No one"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game6_004_qa0008.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Who does Person 0 point at between 3.0 and 9.0 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 3",
+      "C) Person 4",
+      "D) No one"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 4_Game6_001_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes Person 1's gaze behavior between 2.5 and 3.5 seconds?",
+    "options": [
+      "A) Quickly changes gaze direction",
+      "B) Makes eye contact with someone",
+      "C) Follows someone else's gaze",
+      "D) Maintains a steady stare"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 4_Game6_001_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of hand gesture does Person 0 perform between 3.0 and 4.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 4_Game6_002_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 4 perform between 2.0 and 4.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_002_qa0008.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 3 perform between 2.0 and 3.5 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_003_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze behavior of Person 1, Person 2, Person 3, Person 4, and Person 5 between 1.5 and 2.5 seconds?",
+    "options": [
+      "A) looking at each other",
+      "B) looking at the same thing",
+      "C) quickly changes gaze direction",
+      "D) following someone's gaze"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_003_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 3 perform between 1.0 and 5.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_004_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Person 0 and Person 2 from 1.5 to 3.5 seconds?",
+    "options": [
+      "A) They make eye contact",
+      "B) They both quickly change gaze direction",
+      "C) Person 2 is following Person 0's gaze",
+      "D) Everyone suddenly shifts gaze"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_006_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who makes eye contact with Person 1 between 3.0 and 5.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 5",
+      "D) Person 3"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_001_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 0 looking at between 1.0 and 2.5 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_003_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes Person 1's gaze behavior between 1.5 and 4.0 seconds?",
+    "options": [
+      "A) Makes eye contact with Person 0",
+      "B) Quickly changes gaze direction",
+      "C) Follows Person 3's gaze",
+      "D) Looks at the same thing as Person 2"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_006_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 4 making eye contact with between 1.5 and 4.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_006_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes Person 4's gaze behavior between 2.0 and 3.0 seconds?",
+    "options": [
+      "A) Quickly changes gaze direction",
+      "B) Makes eye contact with someone",
+      "C) Follows someone's gaze",
+      "D) Looks at the same thing as the group"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 1  July 5th 2016_Game2_003_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes Person 3's gaze behavior between 0.5 and 1.0 seconds?",
+    "options": [
+      "A) Makes eye contact",
+      "B) Quickly changes gaze direction",
+      "C) Follows someone's gaze",
+      "D) Looks at the same thing as others"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 18  September 30th 2017_Game1_001_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Between 1.5 and 12.0 seconds, who is pointing at an object?",
+    "options": [
+      "A) Person 1",
+      "B) Person 0",
+      "C) Person 4",
+      "D) Person 2"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 28  February 17th 2018_Game2_001_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 2 perform between 2.5 and 5.5 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 28  February 17th 2018_Game2_002_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction of the group between 2.0 and 12.5 seconds?",
+    "options": [
+      "A) Looking at the same thing",
+      "B) Everyone suddenly shifts gaze",
+      "C) Following someone's gaze",
+      "D) Looking at each other"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 28  February 17th 2018_Game2_004_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Person 1 and Person 3 from 1.0 to 3.0 seconds?",
+    "options": [
+      "A) They make eye contact",
+      "B) They are looking at the same thing",
+      "C) Person 1 follows Person 3's gaze",
+      "D) They quickly change gaze direction"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 28  February 17th 2018_Game2_004_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 5 perform between 1.0 and 6.5 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 43  October 13th 2018_Game3_001_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Person 2 and Person 3 from 3.0 to 4.5 seconds?",
+    "options": [
+      "A) Following someone's gaze",
+      "B) Looking at each other",
+      "C) Quickly changing gaze direction",
+      "D) Everyone suddenly shifting gaze"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 43  October 13th 2018_Game3_001_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "What action does Person 3 perform between 1.5 and 5.5 seconds?",
+    "options": [
+      "A) Holds up an object",
+      "B) Points at Person 1",
+      "C) Hands an object to Person 0",
+      "D) Reaches for a game piece"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 43  October 13th 2018_Game3_003_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction of the group between 2.5 and 9.0 seconds?",
+    "options": [
+      "A) Looking at the same thing",
+      "B) Everyone suddenly shifts gaze",
+      "C) Following someone's gaze",
+      "D) Looking at each other"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game2_001_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 2 perform between 2.5 and 5.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game2_002_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 1 making eye contact with between 1.5s and 5.0s?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 1"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game2_002_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 3 perform between 3.0 and 5.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game2_003_qa0011.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Who points at Person 1 between 2.0 and 4.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 1"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game2_004_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes Person 1's gaze behavior between 1.5 and 2.0 seconds?",
+    "options": [
+      "A) Quickly changes gaze direction",
+      "B) Looking at the same thing as Person 2",
+      "C) Making eye contact with Person 0",
+      "D) Following Person 3's gaze"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game2_004_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction among all four people (Person 0, 1, 2, and 3) between 0.0 and 0.5 seconds?",
+    "options": [
+      "A) Following Person 0's gaze",
+      "B) Making eye contact with each other",
+      "C) Looking at the same thing",
+      "D) Quickly changing gaze direction"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game3_002_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 2 perform between 1.5 and 4.5 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game3_003_qa0011.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Which person is pointing at Person 0 between 2.0 and 3.5 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 1"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game4_002_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Persons 0, 1, 2, and 3 from 2.0s to 3.0s?",
+    "options": [
+      "A) Looking at the same thing",
+      "B) Making eye contact",
+      "C) Following someone's gaze",
+      "D) Quickly changing gaze direction"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game4_002_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 1 perform between 2.0 and 3.5 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game6_001_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Which person performs a reaching gesture between 3.0 and 5.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game6_001_qa0011.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Between 3.0 and 10.0 seconds, what kind of target is Person 0 pointing at?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 4",
+      "D) An object"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game6_002_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of hand gesture does Person 1 perform between 1.5 and 3.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game6_002_qa0011.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "At 2.5 to 4.0 seconds, who is the person that performs a pointing gesture?",
+    "options": [
+      "A) Person 0",
+      "B) Person 3",
+      "C) Person 1",
+      "D) Person 2"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 55  January 26th 2019_Game3_001_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "What action does Person 5 perform between 2.5 and 4.0 seconds?",
+    "options": [
+      "A) Points at another person",
+      "B) Hands an object to another person",
+      "C) Shows an object",
+      "D) Reaches for a card"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 55  January 26th 2019_Game3_003_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of hand gesture does Person 6 perform between 1.0 and 3.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 83  October 15th 2019_Game2_003_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of hand gesture does Person 0 perform between 1.5 and 3.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 87  November 9th 2019_Game1_004_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of hand gesture does Person 0 perform between 2.0 and 5.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 89  November 30th 2019_Game3_003_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Person 2 and Person 4 from 1.5s to 2.0s?",
+    "options": [
+      "A) They are looking at the same thing.",
+      "B) They are looking at each other.",
+      "C) They are following someone's gaze.",
+      "D) They quickly change gaze direction."
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 89  November 30th 2019_Game3_003_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 4 perform at 3.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 89  November 30th 2019_Game3_004_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Person 0 and Person 3 between 2.0 and 4.0 seconds?",
+    "options": [
+      "A) Looking at the same thing",
+      "B) Eye contact",
+      "C) Following someone's gaze",
+      "D) Quickly changes gaze direction"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf 493 Even More Classic Werewolf_Game1_001_qa0008.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Which person holds up an object between 2.5 and 4.5 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf GAME NIGHT!!_Game2_001_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Which person reaches for an object between 3.0 and 8.5 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf GAME NIGHT!!_Game2_003_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 0 looking at between 2.5 and 6.0 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) No one"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf GAME NIGHT!!_Game2_003_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Who does Person 0 point at between 2.0 and 4.0 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 0"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game2_003_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 4 perform at 2.5 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game3_001_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 1 making eye contact with between 2.0 and 8.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game3_002_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 0 looking at between 2.5 and 4.0 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game3_002_qa0011.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "What is the target of Person 2's pointing gesture between 2.0 and 3.5 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 4",
+      "C) An object",
+      "D) Person 1"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game3_003_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 1 perform between 0.5 and 2.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game4_001_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 1 making eye contact with between 2.5 and 5.5 seconds?",
+    "options": [
+      "A) Person 3",
+      "B) Person 0",
+      "C) Person 4",
+      "D) No one"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game4_001_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes Person 0's gaze behavior between 2.5 and 3.0 seconds?",
+    "options": [
+      "A) Quickly changes gaze direction",
+      "B) Makes eye contact with someone",
+      "C) Follows someone's gaze",
+      "D) Looks at the same thing as Person 1"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game4_002_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Person 1 and Person 2 from 1.0 to 2.5 seconds?",
+    "options": [
+      "A) Looking at the same thing",
+      "B) Following someone's gaze",
+      "C) Looking at each other",
+      "D) Quickly changing gaze direction"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_002_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who quickly changes their gaze direction between 2.0 and 3.5 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_002_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Person 2, Person 3, Person 4, and Person 7 from 3.0 to 5.0 seconds?",
+    "options": [
+      "A) Looking at the same thing",
+      "B) Looking at each other",
+      "C) Following someone's gaze",
+      "D) Quickly changes gaze direction"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_002_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of hand gesture does Person 4 perform between 1.5 and 4.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_003_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Person 2 and Person 3 from 2.0 to 4.0 seconds?",
+    "options": [
+      "A) They are looking at the same thing",
+      "B) They make eye contact",
+      "C) Person 2 follows Person 3's gaze",
+      "D) They both quickly change gaze direction"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_003_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 6 perform at 2.5 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_004_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction of Person 5 between 1.0 and 1.5 seconds?",
+    "options": [
+      "A) Person 5 quickly changes gaze direction.",
+      "B) Person 5 makes eye contact with Person 2.",
+      "C) Person 5 follows Person 1's gaze.",
+      "D) Person 5 closes their eyes."
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_004_qa0011.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Which person performs a pointing gesture at an object between 1.0 and 4.0 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 5"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game3_002_qa0008.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 4 perform between 1.0 and 2.5 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game3_004_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 2 making eye contact with between 2.5 and 5.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 3",
+      "D) No one"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game3_004_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Who points at Person 0 between 2.5 and 4.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) No one"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game3_001_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 1 looking at at 2.5 seconds?",
+    "options": [
+      "A) Person 3",
+      "B) Person 0",
+      "C) Person 4",
+      "D) Multiple people"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game3_002_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Who is Person 1 looking at between 1.0 and 4.0 seconds?",
+    "options": [
+      "A) Person 2",
+      "B) Person 3",
+      "C) Person 4",
+      "D) No one"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_001_qa0000.mp4",
+    "difficulty": "easy",
+    "category": "T1",
+    "question": "Which person quickly changes gaze direction between 2.5 and 4.5 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_001_qa0001.mp4",
+    "difficulty": "easy",
+    "category": "T2",
+    "question": "What best describes the gaze interaction between Person 0 and Person 4 from 1.5 to 3.5 seconds?",
+    "options": [
+      "A) They are looking at each other",
+      "B) They are looking at the same thing",
+      "C) Person 0 is following Person 4's gaze",
+      "D) They both quickly change gaze direction"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_001_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 2 perform between 2.0 and 4.0 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_001_qa0010.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Which person holds up an object between 3.0 and 5.0 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 4"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_002_qa0009.mp4",
+    "difficulty": "easy",
+    "category": "G2",
+    "question": "What type of gesture does Person 1 perform at 1.5 seconds?",
+    "options": [
+      "A) Pointing",
+      "B) Giving",
+      "C) Showing",
+      "D) Reaching"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_003_qa0008.mp4",
+    "difficulty": "easy",
+    "category": "G1",
+    "question": "Which person performs a gesture between 1.0 and 3.0 seconds?",
+    "options": [
+      "A) Person 3",
+      "B) Person 2",
+      "C) Person 5",
+      "D) Person 0"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "153_1_001_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "Between Person 2 and Person 3, which gaze event happens first: following someone's gaze or looking at the same thing (between 1.5s and 77.0s)?",
+    "options": [
+      "A) Following someone's gaze happens first",
+      "B) Looking at the same thing happens first",
+      "C) They happen at the exact same time",
+      "D) Neither event occurs between them"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "153_1_003_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 3 and Person 4 maintain eye contact between 3.0 and 5.0 seconds?",
+    "options": [
+      "A) 0.0 seconds",
+      "B) 1.0 seconds",
+      "C) 2.0 seconds",
+      "D) 1.5 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "153_1_003_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 1.5 and 3.0 seconds?",
+    "options": [
+      "A) Person 0 and Person 2",
+      "B) Person 0 and Person 4",
+      "C) Person 2 and Person 3",
+      "D) Person 3 and Person 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "153_2_001_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 0 and Person 4 maintain eye contact between 1.0 and 12.0 seconds?",
+    "options": [
+      "A) 3.5 seconds",
+      "B) 7.0 seconds",
+      "C) 11.0 seconds",
+      "D) 1.5 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "153_2_001_qa0005.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "Between Person 0 and Person 4, how long is their first eye contact in the video (between 2.5s and 8.0s)?",
+    "options": [
+      "A) 3.5 seconds",
+      "B) 5.5 seconds",
+      "C) 2.0 seconds",
+      "D) 7.0 seconds"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "170_1_003_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 0 and Person 1 maintain eye contact during their interaction from 1.5 to 4.0 seconds?",
+    "options": [
+      "A) 1.5 seconds",
+      "B) 2.5 seconds",
+      "C) 0.5 seconds",
+      "D) 2.0 seconds"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "170_1_003_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 1.0 and 2.5 seconds?",
+    "options": [
+      "A) Person 0 and Person 1",
+      "B) Person 1 and Person 3",
+      "C) Person 0 and Person 2",
+      "D) Person 2 and Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "170_2_001_qa0012.mp4",
+    "difficulty": "medium",
+    "category": "C2",
+    "question": "While Person 2 is pointing at Person 3 between 1.5s and 14.0s, which person does Person 2 make eye contact with between 8.5s and 11.0s?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 3",
+      "D) Person 2 makes no eye contact during this time."
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "171_1_002_qa0010.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Which person initiates the most pointing gestures throughout the video clip?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "171_2_001_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Two pointing gestures begin at 1.0 seconds. Which person holds their gesture longer?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "172_1_002_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Between 3.0 and 23.0 seconds, which event happens first?",
+    "options": [
+      "A) Person 1 points at Person 0",
+      "B) Person 0 points at Person 1",
+      "C) Person 0 points at an object",
+      "D) Person 3 points at an object"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "172_1_002_qa0012.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Over the entire video clip, which person initiates the highest number of pointing gestures (between 2.0s and 45.0s)?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "178_1_002_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 0 and Person 1 maintain eye contact during their interaction from 1.0s to 3.5s?",
+    "options": [
+      "A) 1.0 seconds",
+      "B) 2.5 seconds",
+      "C) 1.5 seconds",
+      "D) 2.0 seconds"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "181_1_002_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 2.0s and 5.0s?",
+    "options": [
+      "A) Person 0 and Person 1",
+      "B) Person 0 and Person 3",
+      "C) Person 1 and Person 2",
+      "D) Person 2 and Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "181_1_002_qa0013.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Who initiates the highest number of pointing gestures in the video (between 2.0s and 67.0s)?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "181_1_003_qa0015.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "During the time Person 0 points at Person 1 between 2.5s and 6.0s, who follows whose gaze?",
+    "options": [
+      "A) Person 2 follows Person 0's gaze",
+      "B) Person 0 follows Person 2's gaze",
+      "C) Person 1 follows Person 0's gaze",
+      "D) Person 2 follows Person 1's gaze"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "181_1_003_qa0017.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "While Person 3 points at Person 2 from 1.5s to 5.5s, which person follows Person 0's gaze?",
+    "options": [
+      "A) Person 3",
+      "B) Person 1",
+      "C) Person 0",
+      "D) No one"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "197_1_001_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 3 and Person 5 maintain eye contact between 2.5s and 11.5s?",
+    "options": [
+      "A) 3.5 seconds",
+      "B) 6.0 seconds",
+      "C) 9.0 seconds",
+      "D) 1.5 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "197_1_001_qa0012.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "During Person 0's reach for the bowl of food between 1.5 and 7.0 seconds, who is following Person 1's gaze?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 5"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "197_1_002_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 0 and Person 1 maintain eye contact during their interaction starting at 7.0 seconds?",
+    "options": [
+      "A) 2.5 seconds",
+      "B) 3.0 seconds",
+      "C) 5.0 seconds",
+      "D) 1.5 seconds"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "199_1_002_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Which pointing gesture happens first (between 2.5s and 57.5s)?",
+    "options": [
+      "A) Person 1 points at Person 5",
+      "B) Person 3 points at Person 5 for the second time",
+      "C) Person 5 points for the third time",
+      "D) Person 0 points at someone"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "199_2_001_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Who receives the highest number of pointing gestures from others between 2.0 and 4.5 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 1_Game1_002_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 1 and Person 2 look at the same thing between 2.0 and 6.5 seconds?",
+    "options": [
+      "A) 4.5 seconds",
+      "B) 3.5 seconds",
+      "C) 2.0 seconds",
+      "D) 0.5 seconds"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 1_Game1_002_qa0010.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Throughout the video, who performs the most pointing gestures?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Everyone performs the same number"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 1_Game1_002_qa0015.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "About a second after Person 1 starts pointing at Person 2 at 3.0s, who performs a sudden gaze shift?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) No one performs a sudden gaze shift"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game6_001_qa0013.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "At the moment Person 1 starts pointing at Person 0 around 10.0s, who is Person 1 making eye contact with?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 4",
+      "D) No one"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game6_002_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 1 and Person 0 maintain eye contact starting at 1.0s?",
+    "options": [
+      "A) 2.5 seconds",
+      "B) 4.0 seconds",
+      "C) 5.5 seconds",
+      "D) 7.0 seconds"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game6_002_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 2.0s and 4.0s?",
+    "options": [
+      "A) Person 0 and Person 3",
+      "B) Person 1 and Person 0",
+      "C) Person 2 and Person 1",
+      "D) Person 2 and Person 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game6_002_qa0012.mp4",
+    "difficulty": "medium",
+    "category": "C2",
+    "question": "When Person 2 points at Person 1 between 1.0s and 4.5s, are they making eye contact with each other?",
+    "options": [
+      "A) Yes, they make eye contact from 1.0s to 4.0s.",
+      "B) Yes, they make eye contact from 7.0s to 9.0s.",
+      "C) No, Person 2 makes eye contact with Person 0 instead.",
+      "D) No, there is no eye contact between them."
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game7_001_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 2.5 and 7.0 seconds?",
+    "options": [
+      "A) Person 0 and Person 4",
+      "B) Person 0 and Person 3",
+      "C) Person 1 and Person 4",
+      "D) Person 3 and Person 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 4_Game6_001_qa0014.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "Which happens first: Person 2 leading a gaze following event with Person 0, or Person 0 pointing at the target (between 1.5s and 3.5s)?",
+    "options": [
+      "A) Person 2 leading the gaze following event",
+      "B) Person 0 pointing at the target",
+      "C) They start at the exact same time",
+      "D) Person 1 pointing at Person 2"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 4_Game6_002_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "An attention capture event happens at 2.5s. During this time, someone is pointing across the table. Is the person pointing involved in the attention capture event?",
+    "options": [
+      "A) No, Person 4 is pointing but not involved.",
+      "B) Yes, Person 4 is pointing and involved.",
+      "C) No, Person 0 is pointing but not involved.",
+      "D) Yes, Person 1 is pointing and involved."
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_003_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 2 and Person 4 maintain eye contact starting at 1.5 seconds?",
+    "options": [
+      "A) 1.5 seconds",
+      "B) 2.5 seconds",
+      "C) 3.5 seconds",
+      "D) 4.5 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_003_qa0010.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Which of these pointing events happens first in the video (between 2.5s and 39.5s)?",
+    "options": [
+      "A) Person 5 points at an object",
+      "B) Person 4 points at an object",
+      "C) Person 0 points at an object",
+      "D) Person 3 points at Person 0"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_004_qa0016.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "Between 2.0s and 4.5s, does Person 0 point at Person 4 before or after Person 4 follows Person 0's gaze?",
+    "options": [
+      "A) Person 0 points before Person 4 follows their gaze",
+      "B) Person 0 points after Person 4 follows their gaze",
+      "C) They start at the exact same time",
+      "D) Person 0 points at Person 1 instead"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_005_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Between Person 1 pointing at Person 0 and Person 4 pointing at an object, which event happens first (between 1.5s and 13.5s)?",
+    "options": [
+      "A) Person 1 points at Person 0",
+      "B) Person 4 points at an object",
+      "C) Both happen at exactly the same time",
+      "D) Neither event occurs in the video"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_005_qa0019.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "At 3.0s, an attention capture event involves Person 0, Person 1, Person 2, and Person 3. Who among them is actively pointing at another person?",
+    "options": [
+      "A) Person 1",
+      "B) Person 0",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_006_qa0010.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Between 1.0 and 9.0 seconds, which event happens first?",
+    "options": [
+      "A) Person 4 points at Person 2",
+      "B) Person 2 points at Person 4",
+      "C) Person 0 points at Person 4",
+      "D) Person 5 points at Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_003_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 1.5 and 3.5 seconds?",
+    "options": [
+      "A) Person 1 and Person 5",
+      "B) Person 3 and Person 4",
+      "C) Person 0 and Person 2",
+      "D) Person 2 and Person 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_004_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Who performs the most pointing gestures in the video (between 0.5s and 48.0s)?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 4",
+      "D) Person 5"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_004_qa0017.mp4",
+    "difficulty": "medium",
+    "category": "C2",
+    "question": "At 3.5s, Person 5 starts pointing at Person 2. Who is Person 5 making eye contact with when this gesture begins?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 4"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_005_qa0010.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Between 2.0 and 5.0 seconds, two people perform pointing gestures. Who starts their gesture first?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_005_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Between 1.5 and 4.5 seconds, who initiates the most pointing gestures?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_006_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Between 0.0 and 2.0 seconds, two people point at Person 4 at the exact same time. Who are they?",
+    "options": [
+      "A) Person 0 and Person 1",
+      "B) Person 1 and Person 3",
+      "C) Person 0 and Person 4",
+      "D) Person 3 and Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 1  July 5th 2016_Game2_002_qa0013.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Which two people initiate the highest number of gestures in the video (between 2.5s and 89.0s)?",
+    "options": [
+      "A) Person 1 and Person 6",
+      "B) Person 1 and Person 3",
+      "C) Person 3 and Person 6",
+      "D) Person 2 and Person 7"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 1  July 5th 2016_Game2_003_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 1 and Person 2 maintain eye contact between 2.0 and 7.5 seconds?",
+    "options": [
+      "A) 4.0 seconds",
+      "B) 5.5 seconds",
+      "C) 3.5 seconds",
+      "D) 2.0 seconds"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 18  September 30th 2017_Game1_001_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 1.5 and 5.0 seconds?",
+    "options": [
+      "A) Person 1 and Person 2",
+      "B) Person 2 and Person 4",
+      "C) Person 0 and Person 4",
+      "D) Person 0 and Person 2"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 18  September 30th 2017_Game1_002_qa0016.mp4",
+    "difficulty": "medium",
+    "category": "C2",
+    "question": "While Person 1 points at Person 0 between 1.5s and 11.0s, who is Person 1 making eye contact with?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 1"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 18  September 30th 2017_Game1_002_qa0017.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "During the eye contact between Person 1 and Person 2 from 2.5s to 8.5s, which two people point at objects on the table?",
+    "options": [
+      "A) Person 1 and Person 2",
+      "B) Person 2 and Person 3",
+      "C) Person 3 and Person 0",
+      "D) Person 1 and Person 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 18  September 30th 2017_Game1_003_qa0015.mp4",
+    "difficulty": "medium",
+    "category": "C2",
+    "question": "When Person 2 points at Person 1 between 3.0s and 8.0s, who is Person 2 making eye contact with?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 3",
+      "D) Person 2"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 28  February 17th 2018_Game2_002_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Which gesture happens first in the video: Person 1 pointing at a person, or Person 5 pointing at an object (between 2.0s and 13.5s)?",
+    "options": [
+      "A) Person 1 pointing at a person",
+      "B) Person 5 pointing at an object",
+      "C) They happen at the exact same time",
+      "D) Neither person performs a gesture"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 28  February 17th 2018_Game2_002_qa0020.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "When Person 3 starts pointing at the cards at 3.0s, what type of gaze event involves all 6 people in the video?",
+    "options": [
+      "A) Joint attention",
+      "B) Attention capture",
+      "C) Mutual gaze",
+      "D) Gaze following"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 28  February 17th 2018_Game2_004_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 2.5 and 4.0 seconds?",
+    "options": [
+      "A) Person 1 and Person 2",
+      "B) Person 3 and Person 5",
+      "C) Person 2 and Person 7",
+      "D) Person 7 and Person 5"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 28  February 17th 2018_Game2_004_qa0010.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "How long does Person 5's pointing gesture directed at the target last, starting at 3.0 seconds?",
+    "options": [
+      "A) 1.5 seconds",
+      "B) 3.0 seconds",
+      "C) 4.5 seconds",
+      "D) 6.0 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 43  October 13th 2018_Game3_002_qa0010.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Between 0.0 and 39.5 seconds, which of these events happens first?",
+    "options": [
+      "A) Person 4 points at an object",
+      "B) Person 4 points at Person 1",
+      "C) Person 1 points at Person 0",
+      "D) Person 1 points at an object"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 43  October 13th 2018_Game3_002_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Who performs the most pointing gestures in the video (between 2.0s and 85.5s)?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 4"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 43  October 13th 2018_Game3_003_qa0010.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "How long does the gesture performed by Person 0 starting at 2.5 seconds last?",
+    "options": [
+      "A) 1.5 seconds",
+      "B) 2.0 seconds",
+      "C) 3.0 seconds",
+      "D) 4.5 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 43  October 13th 2018_Game3_003_qa0015.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "During Person 0's pointing gesture between 2.5s and 6.0s, how many people are looking at the same thing together?",
+    "options": [
+      "A) 1 people",
+      "B) 3 people",
+      "C) 4 people",
+      "D) 2 people"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game2_001_qa0013.mp4",
+    "difficulty": "medium",
+    "category": "C2",
+    "question": "While Person 2 points to themselves between 2.0s and 5.0s, who is Person 2 making eye contact with?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 3",
+      "D) Person 2"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game2_004_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "Which person performs a sudden gaze shift during Person 0's pointing gesture (between 0.5s and 2.5s)?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game3_003_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 2.5 and 5.0 seconds?",
+    "options": [
+      "A) Person 0 and Person 2",
+      "B) Person 2 and Person 3",
+      "C) Person 0 and Person 1",
+      "D) Person 1 and Person 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game4_002_qa0017.mp4",
+    "difficulty": "medium",
+    "category": "C2",
+    "question": "While Person 2 points directly at Person 1 between 2.0s and 5.0s, who is Person 2 making eye contact with?",
+    "options": [
+      "A) Person 1",
+      "B) Person 0",
+      "C) Person 3",
+      "D) Person 2"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game6_001_qa0015.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "Which happens first: Person 2 starting to point the game card, or the group starting to look at the same thing together?",
+    "options": [
+      "A) Person 2 starts pointing the game card first.",
+      "B) The group starts looking at the same thing first.",
+      "C) Both events start at the exact same time.",
+      "D) Person 0 points at a red card first."
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game6_003_qa0009.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Which happens first: Person 2 pointing at Person 0 or Person 3 pointing at an object (between 3.0s and 9.0s)?",
+    "options": [
+      "A) Person 3 pointing at an object",
+      "B) Person 2 pointing at Person 0",
+      "C) They happen at the exact same time",
+      "D) Neither event occurs in the video"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 55  January 26th 2019_Game3_003_qa0012.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "While Person 4 is pointing at Person 6 between 2.0 and 3.5 seconds, whose gaze does Person 4 follow?",
+    "options": [
+      "A) Person 2",
+      "B) Person 3",
+      "C) Person 4",
+      "D) Person 6"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 87  November 9th 2019_Game1_005_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Which happens first: Person 2's pointing gesture or Person 1's pointing gesture (between 2.0s and 51.5s)?",
+    "options": [
+      "A) Person 2's pointing gesture",
+      "B) Person 1's pointing gesture",
+      "C) They happen at the exact same time",
+      "D) Neither person performs a pointing gesture"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 89  November 30th 2019_Game3_001_qa0012.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Who performs the most pointing gestures in the provided video clip?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 4",
+      "D) Person 1"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 89  November 30th 2019_Game3_001_qa0014.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "Between 2.5 and 7.0 seconds, Person 2 points at a card. During this exact time period, which group of people are looking at the same thing together?",
+    "options": [
+      "A) Person 0, Person 1, Person 2, and Person 4",
+      "B) Person 0, Person 1, and Person 2",
+      "C) Person 0, Person 1, and Person 4",
+      "D) Person 0, Person 2, and Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 89  November 30th 2019_Game3_003_qa0004.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 2.0s and 4.5s?",
+    "options": [
+      "A) Person 1 and Person 4",
+      "B) Person 2 and Person 3",
+      "C) Person 1 and Person 2",
+      "D) Person 3 and Person 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 89  November 30th 2019_Game3_003_qa0013.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Which happens first: Person 1 pointing or Person 2 pointing (between 1.5s and 14.0s)?",
+    "options": [
+      "A) Person 1 pointing",
+      "B) Person 2 pointing",
+      "C) They happen simultaneously",
+      "D) Neither person points"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf 493 Even More Classic Werewolf_Game1_002_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Between 2.0s and 5.5s, which pair of people makes eye contact?",
+    "options": [
+      "A) Person 0 and Person 3",
+      "B) Person 1 and Person 2",
+      "C) Person 1 and Person 3",
+      "D) Person 0 and Person 2"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf 493 Even More Classic Werewolf_Game1_002_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Which person points at an object the most times during the video (between 3.0s and 57.0s)?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf 493 Even More Classic Werewolf_Game1_003_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 1.5 and 4.0 seconds?",
+    "options": [
+      "A) Person 0 and Person 3",
+      "B) Person 1 and Person 2",
+      "C) Person 2 and Person 3",
+      "D) Person 0 and Person 1"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf 493 Even More Classic Werewolf_Game1_004_qa0001.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 1.5 and 3.5 seconds?",
+    "options": [
+      "A) Person 0 and Person 1",
+      "B) Person 1 and Person 2",
+      "C) Person 2 and Person 3",
+      "D) Person 0 and Person 3"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf GAME NIGHT!!_Game2_001_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 2 and Person 3 maintain eye contact starting at 2.5s?",
+    "options": [
+      "A) 7.5 seconds",
+      "B) 8.0 seconds",
+      "C) 9.0 seconds",
+      "D) 10.5 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf GAME NIGHT!!_Game2_002_qa0006.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "Between Person 0 and Person 1, which happens first: eye contact or following the other's gaze (between 1.5s and 32.0s)?",
+    "options": [
+      "A) Eye contact",
+      "B) Following the other's gaze",
+      "C) They happen at the exact same time",
+      "D) Neither happens between them"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game2_002_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 2 and Person 0 maintain eye contact starting at 2.5 seconds?",
+    "options": [
+      "A) 4.5 seconds",
+      "B) 5.5 seconds",
+      "C) 7.0 seconds",
+      "D) 8.5 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game2_002_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 2.5 and 9.5 seconds?",
+    "options": [
+      "A) Person 2 and Person 3",
+      "B) Person 1 and Person 0",
+      "C) Person 4 and Person 0",
+      "D) Person 1 and Person 2"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game3_001_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 2.0 and 8.0 seconds?",
+    "options": [
+      "A) Person 0 and Person 3",
+      "B) Person 1 and Person 4",
+      "C) Person 1 and Person 2",
+      "D) Person 2 and Person 4"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game3_002_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 1.5 and 3.0 seconds?",
+    "options": [
+      "A) Person 0 and Person 1",
+      "B) Person 0 and Person 2",
+      "C) Person 1 and Person 3",
+      "D) Person 2 and Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game3_003_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact between 2.5 and 4.5 seconds?",
+    "options": [
+      "A) Person 1 and Person 2",
+      "B) Person 2 and Person 3",
+      "C) Person 3 and Person 4",
+      "D) Person 0 and Person 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game4_001_qa0012.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Which person initiates the most gestures in the video (between 1.5s and 35.0s)?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game4_002_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 0 and Person 4 maintain eye contact between 1.5 and 6.0 seconds?",
+    "options": [
+      "A) 1.5 seconds",
+      "B) 3.0 seconds",
+      "C) 4.5 seconds",
+      "D) 2.5 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "The Return of the King  ONE NIGHT ULTIMATE WEREWOLF_Game6_004_qa0016.mp4",
+    "difficulty": "medium",
+    "category": "C2",
+    "question": "While Person 5 points towards the cards in the center of the table between 2.0 and 8.5 seconds, which person do they make eye contact with?",
+    "options": [
+      "A) Person 0",
+      "B) Person 4",
+      "C) Person 2",
+      "D) Person 5"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_002_qa0015.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "Person 4 points at the card in front of Person 2 between 2.5 and 6.5 seconds. What gaze event involving Person 2 happens right before this gesture begins?",
+    "options": [
+      "A) A sudden gaze shift between 0.0 and 0.0 seconds",
+      "B) A sudden gaze shift between 2.5 and 3.0 seconds",
+      "C) An attention capture at 7.0 seconds",
+      "D) A sudden gaze shift between 7.0 and 7.0 seconds"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_003_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Which happens first: Person 2 pointing at an object, or Person 6 pointing at an object (between 1.0s and 26.5s)?",
+    "options": [
+      "A) Person 2 points first",
+      "B) Person 6 points first",
+      "C) They point at the exact same time",
+      "D) Neither person points"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_003_qa0013.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "How many distinct pointing gestures does Person 2 perform in the video (between 2.5s and 28.0s)?",
+    "options": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game3_002_qa0009.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Which of these events occurs first in the video?",
+    "options": [
+      "A) Person 1 points at Person 3",
+      "B) Person 0 points at Person 4",
+      "C) Person 4 points at an object",
+      "D) Person 0 points at Person 1"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game3_003_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Which person initiates the most pointing gestures throughout the video clip?",
+    "options": [
+      "A) Person 6",
+      "B) Person 2",
+      "C) Person 0",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game3_003_qa0017.mp4",
+    "difficulty": "medium",
+    "category": "C1",
+    "question": "Comparing Person 6's actions across both gaze and gesture, which of these events happens first (between 1.5s and 44.0s)?",
+    "options": [
+      "A) Person 6 quickly shifts their gaze",
+      "B) Person 6 points at Person 0",
+      "C) Person 6 points at the cards",
+      "D) Person 6 looks at the same thing as Person 2"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_001_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "How long do Person 0 and Person 3 maintain eye contact during their interaction between 1.0 and 2.5 seconds?",
+    "options": [
+      "A) 0.5 seconds",
+      "B) 1.0 seconds",
+      "C) 1.5 seconds",
+      "D) 2.0 seconds"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_001_qa0003.mp4",
+    "difficulty": "medium",
+    "category": "T4",
+    "question": "Which pair of people makes eye contact starting at exactly 2.5 seconds?",
+    "options": [
+      "A) Person 0 and Person 1",
+      "B) Person 0 and Person 3",
+      "C) Person 1 and Person 3",
+      "D) Person 2 and Person 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_002_qa0002.mp4",
+    "difficulty": "medium",
+    "category": "T3",
+    "question": "Between Person 0 and Person 1, which gaze event happens first: looking at the same thing or following someone's gaze (between 2.0s and 72.5s)?",
+    "options": [
+      "A) Looking at the same thing",
+      "B) Following someone's gaze",
+      "C) They happen at the exact same time",
+      "D) Neither event involves both of them"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_002_qa0011.mp4",
+    "difficulty": "medium",
+    "category": "G4",
+    "question": "Over the course of the video, which person initiates the most gestures (between 1.0s and 75.0s)?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_003_qa0010.mp4",
+    "difficulty": "medium",
+    "category": "G3",
+    "question": "Between Person 2 and Person 5, who performs a gesture earlier in the video (between 1.0s and 30.5s)?",
+    "options": [
+      "A) Person 2",
+      "B) Person 5",
+      "C) They perform gestures simultaneously",
+      "D) Neither performs a gesture"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "153_2_003_qa0003.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "During the gaze following interaction between 3.0 and 4.0 seconds involving Person 3 and Person 4, who looks first at the same point as the other?",
+    "options": [
+      "A) Person 3",
+      "B) Person 4",
+      "C) Both look at the exact same time",
+      "D) Person 1"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "170_1_001_qa0009.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "After Person 0 follows Person 3's gaze between 2.5s and 6.0s, what gesture does Person 0 perform next at 5.0s?",
+    "options": [
+      "A) Person 0 reaches for a playing card on the table.",
+      "B) Person 0 gives a playing card to Person 0.",
+      "C) Person 0 points at Person 1.",
+      "D) Person 0 shows a playing card to Person 2."
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "170_1_003_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 2.0 and 4.0 seconds, who looks first at the target before the other follows?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 1",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "171_1_001_qa0010.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "Right after the series of group attention events ends at 2.5s, what gesture happens?",
+    "options": [
+      "A) Person 1 points at Person 2.",
+      "B) Person 2 points at Person 0.",
+      "C) Person 0 points at Person 3.",
+      "D) Person 2 points at Person 3."
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "171_1_001_qa0011.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Person 2 points at a specific person starting at 11.0s. Was the person being pointed at involved in the group attention event at 2.0s?",
+    "options": [
+      "A) Yes, they were involved in the 2.0s event.",
+      "B) No, they were only involved in the 2.5s event.",
+      "C) No, they were not involved in any attention events.",
+      "D) Yes, but they were the one pointing, not the target."
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "171_1_002_qa0011.mp4",
+    "difficulty": "hard",
+    "category": "G5",
+    "question": "Person 1 points at Person 2 between 1.5 and 6.0 seconds. Following this event, who is the next person that Person 3 points at?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) No one"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "171_1_002_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "G6",
+    "question": "Person 3 points at Person 0 multiple times in the video. Does Person 0 ever point back at Person 3 (between 0.0s and 46.5s)?",
+    "options": [
+      "A) Yes, at 9.0 seconds",
+      "B) Yes, at 25.0 seconds",
+      "C) Yes, at 34.0 seconds",
+      "D) No, Person 0 never points at Person 3"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "171_1_002_qa0017.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Between 5.5s and 7.5s, everyone in the group is looking at the same thing. Which person is simultaneously pointing at Person 2?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 0"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "172_1_002_qa0014.mp4",
+    "difficulty": "hard",
+    "category": "G6",
+    "question": "While Person 1 is pointing at Person 0 between 2.5 and 6.5 seconds, how does Person 0 react?",
+    "options": [
+      "A) Person 0 points back at Person 1",
+      "B) Person 0 points at an object",
+      "C) Person 0 points at Person 2",
+      "D) Person 0 performs no gestures"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "172_1_002_qa0018.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "While Person 1 is pointing at Person 0 between 3.0s and 7.0s, a group attention event occurs at 5.5s. Who is NOT involved in this attention event?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "172_1_002_qa0021.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Person 0 points at the game cards multiple times between 3.0s and 11.0s. In the attention capture event that follows at 18.0s, who is NOT involved?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "178_1_001_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "Which people are involved when everyone suddenly shifts gaze at 2.0 seconds?",
+    "options": [
+      "A) Only Person 0 and Person 1",
+      "B) Only Person 1 and Person 2",
+      "C) Person 1, Person 2, and Person 3",
+      "D) Only Person 0 and Person 2"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "178_2_001_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 2.0s and 3.5s, someone follows another person's gaze. Who looks first at the target?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 3",
+      "D) Person 1 and Person 3 look at the same time"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "181_1_002_qa0005.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "Who is NOT part of the shared attention that occurs between 1.5s and 5.5s?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "181_1_002_qa0015.mp4",
+    "difficulty": "hard",
+    "category": "G6",
+    "question": "Between 3.0 and 4.0 seconds, Person 0 points at Person 3. Does Person 3 point back at Person 0 later?",
+    "options": [
+      "A) Yes, between 13.0 and 14.5 seconds",
+      "B) Yes, between 0.0 and 0.0 seconds",
+      "C) No, Person 3 only points at Person 2",
+      "D) No, Person 3 never points at Person 0"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "181_1_003_qa0016.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Between 3.0s and 5.5s, Person 0 and Person 1 point at each other. Are they involved in a gaze following event during this time, and if so, who leads?",
+    "options": [
+      "A) Yes, Person 0 leads",
+      "B) Yes, Person 2 leads",
+      "C) Yes, Person 1 leads",
+      "D) No gaze following occurs then"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "197_1_003_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 3.0 and 4.5 seconds, who looks first at the same point between Person 3 and Person 5 as the other before the other follows?",
+    "options": [
+      "A) Person 3 looks first, and Person 5 follows.",
+      "B) Person 5 looks first, and Person 3 follows.",
+      "C) Person 5 looks first, and Person 3 looks away.",
+      "D) Person 3 and Person 5 make eye contact."
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "199_2_001_qa0005.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "At exactly 1.5s, when multiple people suddenly shift their gaze, who is NOT part of this shared attention?",
+    "options": [
+      "A) Person 1 and Person 3",
+      "B) Person 3 and Person 4",
+      "C) Person 1 and Person 4",
+      "D) Person 0 and Person 2"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "199_2_001_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "G6",
+    "question": "Between 2.5 and 5.0 seconds, Person 1 points at Person 0. Does Person 0 gesture back?",
+    "options": [
+      "A) Yes, Person 0 points towards Person 1 and Person 3",
+      "B) Yes, Person 0 gives an object to Person 1",
+      "C) No, Person 0 makes no gestures",
+      "D) Yes, Person 0 points exclusively at Person 2"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 1_Game1_002_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "G6",
+    "question": "Person 1 does pointing gesture between 3.0 and 21.5 seconds. Does the target points back at Person 1 later in the video, and if so, when does it start?",
+    "options": [
+      "A) Yes, starting at 21.5 seconds",
+      "B) Yes, starting at 42.0 seconds",
+      "C) Yes, starting at 56.0 seconds",
+      "D) No, Person 2 never points at Person 1"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 1_Game1_002_qa0017.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "During the long period where Person 1 points at Person 2 (2.5s to 21.0s), Person 0 repeatedly follows someone's gaze. Whose gaze does Person 0 follow?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Both Person 1 and Person 2",
+      "D) Person 0 does not follow anyone's gaze"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game6_002_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "During the gaze following interaction between 1.5s and 3.0s, who looks first at the target?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game6_002_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "After Person 2 finishes pointing at Person 1 at 4.0s, when do they next make eye contact with each other?",
+    "options": [
+      "A) Between 6.5s and 8.5s",
+      "B) Between 0.5s and 3.5s",
+      "C) Between 0.0s and 3.5s",
+      "D) They do not make eye contact again"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 3_Game7_001_qa0011.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "Shortly after Person 1 points at himself between 2.0 and 7.5 seconds, which person does he make eye contact with?",
+    "options": [
+      "A) Person 0",
+      "B) Person 3",
+      "C) Person 4",
+      "D) No one"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 4_Game6_001_qa0005.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "At 2.0 seconds, there is a sudden shift in group attention. Who is NOT part of this shared attention shift?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 4_Game6_002_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "After the pointing gesture ends at 2.5s, an attention capture event occurs at 5.5s. How many people from the pointing gesture are involved in this attention capture event?",
+    "options": [
+      "A) One person (Person 4)",
+      "B) Two people (Person 0 and Person 4)",
+      "C) One person (Person 0)",
+      "D) None of the people"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF  Retro 4_Game6_002_qa0014.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Between 42.0s and 43.0s, someone performs a pointing gesture. Is this pointing person involved in the earlier attention capture event at 2.0s?",
+    "options": [
+      "A) Yes, Person 3 points and was involved at 2.0s.",
+      "B) No, Person 3 points but was not involved at 2.0s.",
+      "C) Yes, Person 1 points and was involved at 2.0s.",
+      "D) No, Person 0 points but was not involved at 2.0s."
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_003_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "G5",
+    "question": "Person 4 points at someone between 2.0 and 6.5 seconds. Who points at that same person between 2.0 and 6.5 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 5"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_003_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "G5",
+    "question": "Between 1.0 and 4.0 seconds, Person 2 points at a specific person. Who points at that same person between 78.5 and 82.5 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 3",
+      "C) Person 4",
+      "D) Person 5"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_004_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "At exactly 1.5 seconds, most of the group suddenly shifts their gaze. Who is NOT part of this shared attention shift?",
+    "options": [
+      "A) Person 0",
+      "B) Person 4",
+      "C) Person 3",
+      "D) Person 5"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game1_005_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "G5",
+    "question": "Person 1 points at a specific person between 7.5 and 10.0 seconds. What gesture does that targeted person perform later in the video?",
+    "options": [
+      "A) Points at Person 1 between 17.5 and 19.5 seconds",
+      "B) Points at Person 0 between 13.5 and 15.5 seconds",
+      "C) Points at Person 2 between 11.5 and 14.0 seconds",
+      "D) Reaches for an object at 14.5 seconds"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_001_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "During the gaze interaction between 2.5 and 3.5 seconds, who looks first?",
+    "options": [
+      "A) Person 4",
+      "B) Person 5",
+      "C) Person 0",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_002_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "Immediately after Person 4 finishes reaching for a card on the table at 3.0s, whose gaze do they follow?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 5"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_004_qa0005.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "At 2.0s, a group of people suddenly shifts their gaze. Who is NOT part of this shared attention?",
+    "options": [
+      "A) Person 0 and Person 1",
+      "B) Person 2 and Person 3",
+      "C) Person 4 and Person 5",
+      "D) Person 1 and Person 5"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_005_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 1.5 and 3.5 seconds, Person 4 and Person 5 look in the same direction. Who looks first?",
+    "options": [
+      "A) Person 5 looks first",
+      "B) Person 4 looks first",
+      "C) They look at the exact same time",
+      "D) Person 1 looks first"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_005_qa0005.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "At exactly 1.0 seconds, several people suddenly shift their gaze to look at the same thing. Who is NOT part of this group?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_005_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "G5",
+    "question": "Person 0 points at Person 2 between 3.0 and 8.0 seconds. Immediately after this, another person points at Person 0. Who points at Person 0?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_005_qa0018.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "At 3.0 seconds, while Person 1 is pointing at Person 2, whose attention is captured simultaneously?",
+    "options": [
+      "A) Person 2, Person 4, and Person 5",
+      "B) Person 0, Person 1, and Person 3",
+      "C) Person 1 and Person 2 only",
+      "D) Person 0, Person 1, and Person 2"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_006_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 3.0 and 4.0 seconds, who looks first at the target before the other follows?",
+    "options": [
+      "A) Person 4",
+      "B) Person 5",
+      "C) Person 0",
+      "D) Person 2"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF - Drinking Play Through_Game2_006_qa0005.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "At 1.5 seconds, a group suddenly shifts their gaze together. Who is NOT part of this shared attention?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 18  September 30th 2017_Game1_001_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "During the time Person 2 points at a playing card between 3.0s and 13.5s, what group gaze event begins at 7.5s?",
+    "options": [
+      "A) Person 4 and Person 0 make eye contact",
+      "B) All four people look at the same thing together",
+      "C) Person 1 suddenly shifts their gaze away",
+      "D) Person 0 follows Person 1's gaze"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 18  September 30th 2017_Game1_002_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "G6",
+    "question": "Person 3 points at Person 2 between 1.0 and 2.5 seconds. Does Person 2 ever point back at Person 3 later in the video?",
+    "options": [
+      "A) Yes, starting at 7.5 seconds",
+      "B) Yes, starting at 53.5 seconds",
+      "C) Yes, starting at 73.0 seconds",
+      "D) No, Person 2 does not point back at Person 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 18  September 30th 2017_Game1_004_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "At exactly 1.0s, Person 3 starts pointing at an object. Which people are involved in the group attention capture event that happens at this exact time?",
+    "options": [
+      "A) Person 1, Person 2, and Person 3",
+      "B) Person 1 and Person 2",
+      "C) Person 1 and Person 3",
+      "D) Person 2 and Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 28  February 17th 2018_Game2_004_qa0005.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "During the period of 2.0 to 6.5 seconds, who is NOT part of the group looking at the same thing?",
+    "options": [
+      "A) Person 2",
+      "B) Person 5",
+      "C) Person 3",
+      "D) Person 7"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 28  February 17th 2018_Game2_004_qa0018.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "Right as Person 3 is finishing their pointing gesture at Person 7 around 3.0 seconds, which group of people has their attention captured simultaneously?",
+    "options": [
+      "A) Person 1, Person 2, Person 3, Person 5, and Person 7",
+      "B) Person 1, Person 2, and Person 5",
+      "C) Person 2, Person 5, and Person 7",
+      "D) Person 1, Person 3, and Person 7"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 43  October 13th 2018_Game3_002_qa0019.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Shortly after Person 4 points at an object on the table between 2.0s and 5.0s, they make eye contact with another person. Who is it?",
+    "options": [
+      "A) Person 1",
+      "B) Person 0",
+      "C) Person 2",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 43  October 13th 2018_Game3_003_qa0014.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "Right after Person 4 finishes pointing at a card around 3.5s, who do they engage in eye contact with?",
+    "options": [
+      "A) Person 1",
+      "B) Person 0",
+      "C) Person 4",
+      "D) No one"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game2_003_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 3.0s and 4.0s, Person 0 and Person 3 look at the same target. Who looks first?",
+    "options": [
+      "A) Person 0",
+      "B) Person 3",
+      "C) They look at the exact same time",
+      "D) Neither looks at a target"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game2_004_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Which person is the target of Person 0's pointing gesture, and is also missing from the attention capture event at 2.0s?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 0"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game3_003_qa0006.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "At 1.0 seconds, a group of people suddenly shifts their gaze. Which group is involved?",
+    "options": [
+      "A) Person 0, Person 1, and Person 3",
+      "B) Person 0, Person 1, and Person 2",
+      "C) Person 1, Person 2, and Person 3",
+      "D) Person 0, Person 2, and Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 44  October 13th 2018_Game3_003_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "While Person 2 points at Person 3 between 2.0s and 4.5s, which person joins them in a shared attention event at exactly 3.0s?",
+    "options": [
+      "A) Person 2",
+      "B) Person 3",
+      "C) Person 1",
+      "D) No one joins them"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game4_003_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "G6",
+    "question": "Person 4 points at Person 2 between 57.0 and 59.0 seconds. Does Person 2 ever point back at Person 4 in this video?",
+    "options": [
+      "A) Yes, between 82.5 and 84.0 seconds",
+      "B) Yes, between 65.5 and 66.0 seconds",
+      "C) Yes, between 62.5 and 65.0 seconds",
+      "D) No, Person 1 never points at Person 4"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game6_001_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Person 0 reaches at red cards on the table between 1.5 and 11.0 seconds. Are there any recorded gaze events involving Person 4 during this exact time period?",
+    "options": [
+      "A) Yes, Person 4 looks at the same thing as the group.",
+      "B) Yes, Person 4's attention is captured by someone else.",
+      "C) Yes, Person 4 leads another person's gaze.",
+      "D) No, there are no recorded gaze events during this time."
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 45  October 13th 2018_Game6_003_qa0011.mp4",
+    "difficulty": "hard",
+    "category": "G6",
+    "question": "Person 2 points at Person 0 between 1.0 and 2.0 seconds. Does Person 0 gesture back toward Person 2 later in the video?",
+    "options": [
+      "A) Yes, Person 0 points at Person 2 between 41.0 and 42.5 seconds.",
+      "B) Yes, Person 0 points at Person 2 between 18.5 and 20.0 seconds.",
+      "C) No, Person 0 only points at objects.",
+      "D) No, Person 0 never performs any gestures."
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 55  January 26th 2019_Game3_003_qa0014.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "After Person 2 points at Person 6 ending at 2.0 seconds, which two people are involved in a gaze following event starting at 5.5 seconds?",
+    "options": [
+      "A) Person 4 and Person 6",
+      "B) Person 2 and Person 3",
+      "C) Person 2 and Person 4",
+      "D) 0) Person 3 and Person 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 83  October 15th 2019_Game2_004_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "During the gaze following interaction between Person 5 and Person 4 from 2.5s to 4.0s, who looks first?",
+    "options": [
+      "A) Person 4",
+      "B) Person 5",
+      "C) They look at the exact same time",
+      "D) Person 0"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 83  October 15th 2019_Game2_004_qa0014.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Who is involved in BOTH a gaze following event between 1.5s and 7.5s AND the pointing gesture that starts at 5.5s?",
+    "options": [
+      "A) Person 1",
+      "B) Person 0",
+      "C) Person 4",
+      "D) Person 5"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 87  November 9th 2019_Game1_005_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 1.5 and 3.0 seconds, who follows whose gaze?",
+    "options": [
+      "A) Person 2 follows Person 4's gaze",
+      "B) Person 4 follows Person 2's gaze",
+      "C) Person 1 follows Person 2's gaze",
+      "D) Person 2 follows Person 1's gaze"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 89  November 30th 2019_Game3_002_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "G6",
+    "question": "Between 2.5 and 5.5 seconds, Person 0 points at Person 3. Does Person 3 gesture back toward Person 0?",
+    "options": [
+      "A) Yes, Person 3 points back at Person 0",
+      "B) No, Person 3 points at an object",
+      "C) No, Person 3 points at Person 4",
+      "D) No, Person 3 does not gesture"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "ONE NIGHT ULTIMATE WEREWOLF 89  November 30th 2019_Game3_002_qa0016.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "At 2.5s, Person 0 points at Person 3. During this time, an attention capture event occurs. Which other people are involved in this attention event?",
+    "options": [
+      "A) Person 2 and Person 3",
+      "B) Person 0 and Person 3",
+      "C) Person 2 and Person 0",
+      "D) Person 4 and Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf 493 Even More Classic Werewolf_Game1_003_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 3.0 and 5.0 seconds, who follows the other person's gaze?",
+    "options": [
+      "A) Person 1 follows Person 2",
+      "B) Person 2 follows Person 1",
+      "C) Person 0 follows Person 1",
+      "D) Person 3 follows Person 2"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf 493 Even More Classic Werewolf_Game1_004_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "When everyone suddenly shifts gaze at exactly 1.0 seconds, who is NOT part of this shared attention?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf 493 Even More Classic Werewolf_Game1_004_qa0005.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "How many people suddenly shift their gaze at exactly 2.0 seconds?",
+    "options": [
+      "A) One person",
+      "B) Two people",
+      "C) Three people",
+      "D) Four people"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf GAME NIGHT!!_Game2_001_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "After Person 1 points at Person 4 between 3.0 and 10.0 seconds, who follows Person 1's gaze shortly after at 8.0 seconds?",
+    "options": [
+      "A) Person 2",
+      "B) Person 0",
+      "C) Person 3",
+      "D) No one follows Person 1's gaze"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf GAME NIGHT!!_Game2_001_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Who performs the reaching gesture at the very beginning of the video (0-2s) and later makes eye contact with Person 1 at 24.5 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "One Night Ultimate Werewolf GAME NIGHT!!_Game2_003_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Person 0 makes a pointing gesture at themselves towards the end of the video (85.5s - 87.5s). Are they involved in any mutual eye contact events during the first 10 seconds of the video?",
+    "options": [
+      "A) Yes, with Person 2",
+      "B) Yes, with Person 3",
+      "C) Yes, with Person 1",
+      "D) No, they do not make eye contact with anyone"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game3_001_qa0014.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "Between 2.0 and 6.0 seconds, Person 2 points at the cards. Right after this ends, who follows Person 4's gaze at 5.0 seconds?",
+    "options": [
+      "A) Person 3",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 0"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game3_001_qa0015.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Which person points at the cards multiple times between 0.5 and 35.5 seconds, and is also making eye contact with Person 1 at 68.0 seconds?",
+    "options": [
+      "A) Person 2",
+      "B) Person 0",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game3_003_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 2.5 and 3.5 seconds, someone follows another person's gaze. Who follows whose gaze?",
+    "options": [
+      "A) Person 3 follows Person 4's gaze",
+      "B) Person 4 follows Person 3's gaze",
+      "C) Person 2 follows Person 3's gaze",
+      "D) Person 4 follows Person 2's gaze"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game4_001_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "During the gaze following interaction between 2.0 and 3.0 seconds, who looks first at the target?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game4_001_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "G5",
+    "question": "Person 1 points at Person 3 from 1.0 to 4.5 seconds. Immediately starting at 3.0 seconds, who points at Person 0?",
+    "options": [
+      "A) Person 1",
+      "B) Person 3",
+      "C) Person 4",
+      "D) No one"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game4_001_qa0019.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Between 1.0s and 3.0s, Person 1 points at Person 3 and Person 3 points at Person 0. During this exact time, which person makes a sudden gaze shift?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game4_002_qa0005.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "At exactly 1.5 seconds, a group of people suddenly shifts gaze to share attention. Which two people are NOT part of this shared attention?",
+    "options": [
+      "A) Person 0 and Person 2",
+      "B) Person 1 and Person 4",
+      "C) Person 2 and Person 3",
+      "D) Person 0 and Person 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Retrovision  ONE NIGHT ULTIMATE WEREWOLF  Retro 7_Game4_003_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "G5",
+    "question": "After Person 4 points at Person 1 between 1.0 and 5.0 seconds, who does Person 0 point at next?",
+    "options": [
+      "A) Person 0",
+      "B) Person 3",
+      "C) Person 4",
+      "D) Person 2"
+    ],
+    "answer": "C"
+  },
+  {
+    "video_file": "The Return of the King  ONE NIGHT ULTIMATE WEREWOLF_Game6_004_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "G6",
+    "question": "Between 2.5 and 9.5 seconds, Person 2 points at Person 1. Does Person 1 gesture back towards Person 2 during this time?",
+    "options": [
+      "A) Yes, Person 1 points back at Person 2.",
+      "B) No, Person 1 points at Person 4.",
+      "C) No, Person 1 points at an object.",
+      "D) No, Person 1 performs no gestures."
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_002_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "Right before Person 4 points at their own card starting at 2.5 seconds, who performs a sudden gaze shift between 1.5 and 5.0 seconds?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 3",
+      "D) Person 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_003_qa0006.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 1.5 and 5.5 seconds, Person 0 and Person 4 look at the same target. Which person follows the other's gaze?",
+    "options": [
+      "A) Person 0 follows Person 4",
+      "B) Person 4 follows Person 0",
+      "C) Person 2 follows Person 4",
+      "D) Person 4 follows Person 6"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_003_qa0014.mp4",
+    "difficulty": "hard",
+    "category": "C4",
+    "question": "Right as Person 6 begins pointing at the game cards on the table at 2.5s, whose attention is captured along with theirs?",
+    "options": [
+      "A) Person 3 and Person 4",
+      "B) Person 0 and Person 2",
+      "C) Person 4 only",
+      "D) Person 0 and Person 3"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game1_004_qa0006.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "At 2.5 seconds, a group of people suddenly shift their gaze. Which group of people is involved in this shared attention?",
+    "options": [
+      "A) Person 1, Person 2, and Person 4",
+      "B) Person 2, Person 3, and Person 4",
+      "C) Person 1, Person 2, and Person 5",
+      "D) Person 3, Person 4, and Person 5"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game3_002_qa0015.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "Between 1.5s and 8.0s, Person 0 follows Person 4's gaze. What gesture does Person 4 perform shortly before this, starting at 1.5s?",
+    "options": [
+      "A) Person 4 points at Person 0",
+      "B) Person 4 points at a card on the table",
+      "C) Person 4 points at Person 2",
+      "D) Person 4 points at Person 1"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game3_003_qa0001.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "During the gaze interaction between 1.5 and 3.0 seconds, who looks first at the target?",
+    "options": [
+      "A) Person 1",
+      "B) Person 2",
+      "C) Person 6",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Visions from 2016  ONE NIGHT ULTIMATE WEREWOLF  Retro 11_Game3_004_qa0013.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "Shortly before Person 2 points at Person 0 starting at 4.0s, which person quickly shifts their gaze at 2.5s?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game3_001_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 1.5 and 3.5 seconds, who looks first at the target before the other follows?",
+    "options": [
+      "A) Person 3",
+      "B) Person 1",
+      "C) Person 0",
+      "D) Person 4"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game3_001_qa0005.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "When everyone suddenly shifts gaze to look at the same thing at 2.5 seconds, who is NOT part of this shared attention?",
+    "options": [
+      "A) Person 4",
+      "B) Person 0",
+      "C) Person 1",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_001_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T5",
+    "question": "Between 2.0 and 3.0 seconds, Person 0 and Person 1 exhibit a gaze-following interaction. Who looks first at the same point as the other?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_001_qa0006.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "Between 1.5 and 2.0 seconds, a group of people are looking at the same thing. Which individuals make up this group?",
+    "options": [
+      "A) Person 0, Person 1, and Person 3",
+      "B) Person 0, Person 2, and Person 4",
+      "C) Person 1, Person 3, and Person 4",
+      "D) Person 0 and Person 1 only"
+    ],
+    "answer": "A"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_002_qa0004.mp4",
+    "difficulty": "hard",
+    "category": "T6",
+    "question": "At exactly 2.0 seconds, everyone suddenly shifts gaze to the same thing. Who is NOT part of this shared attention?",
+    "options": [
+      "A) Person 0",
+      "B) Person 1",
+      "C) Person 2",
+      "D) Person 3"
+    ],
+    "answer": "D"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_002_qa0012.mp4",
+    "difficulty": "hard",
+    "category": "G5",
+    "question": "After Person 0 points at Person 4 between 1.0 and 2.5 seconds, who does Person 1 point at during their next gesture at 24.5 seconds?",
+    "options": [
+      "A) Person 0",
+      "B) Person 2",
+      "C) Person 3",
+      "D) An object on the table"
+    ],
+    "answer": "B"
+  },
+  {
+    "video_file": "Ye Olde Times  ONE NIGHT ULTIMATE WEREWOLF  Retro 8_Game4_002_qa0016.mp4",
+    "difficulty": "hard",
+    "category": "C3",
+    "question": "Right after Person 1 finishes pointing at Person 4 around 6.5s, what gaze event happens involving Person 1, Person 2, and Person 3?",
+    "options": [
+      "A) They all look at the same thing together",
+      "B) They all look at Person 0",
+      "C) Person 2 suddenly shifts their gaze away",
+      "D) Person 1 follows Person 3's gaze"
+    ],
+    "answer": "A"
+  }
+]

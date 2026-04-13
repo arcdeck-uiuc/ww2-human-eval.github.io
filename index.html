@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Werewolf 2.0 — Human Evaluation</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; color: #333; }
+  .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+  h1 { text-align: center; margin: 30px 0 10px; font-size: 1.8em; }
+  .subtitle { text-align: center; color: #666; margin-bottom: 30px; }
+  .setup-card { background: white; border-radius: 12px; padding: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 20px; }
+  .setup-card h2 { margin-bottom: 15px; font-size: 1.2em; }
+  .setup-card p { color: #666; margin-bottom: 20px; line-height: 1.5; }
+  label { display: block; margin-bottom: 8px; font-weight: 500; }
+  input[type="text"] { width: 100%; padding: 10px 14px; border: 1px solid #ddd; border-radius: 8px; font-size: 14px; margin-bottom: 15px; }
+  .option-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 20px; }
+  .option-btn { padding: 12px; border: 2px solid #ddd; border-radius: 8px; background: white; cursor: pointer; font-size: 16px; font-weight: 600; text-align: center; transition: all 0.2s; }
+  .option-btn:hover { border-color: #4a90d9; }
+  .option-btn.selected { border-color: #4a90d9; background: #e8f0fe; color: #4a90d9; }
+  .start-btn { width: 100%; padding: 14px; background: #4a90d9; color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 600; cursor: pointer; transition: background 0.2s; }
+  .start-btn:hover { background: #3a7bc8; }
+  .start-btn:disabled { background: #ccc; cursor: not-allowed; }
+  .info { background: #f0f7ff; border-radius: 8px; padding: 15px; margin-bottom: 20px; font-size: 14px; line-height: 1.6; }
+  .info strong { color: #4a90d9; }
+  .category-table { width: 100%; border-collapse: collapse; margin: 15px 0; font-size: 13px; }
+  .category-table th, .category-table td { padding: 6px 10px; border: 1px solid #e0e0e0; text-align: center; }
+  .category-table th { background: #f8f8f8; font-weight: 600; }
+  .category-table .easy { color: #4caf50; }
+  .category-table .medium { color: #ff9800; }
+  .category-table .hard { color: #f44336; }
+
+  /* Eval page styles */
+  .eval-container { max-width: 900px; margin: 0 auto; padding: 20px; }
+  .progress-bar { background: #e0e0e0; border-radius: 8px; height: 8px; margin-bottom: 20px; }
+  .progress-fill { background: #4a90d9; height: 100%; border-radius: 8px; transition: width 0.3s; }
+  .progress-text { text-align: center; color: #666; margin-bottom: 10px; font-size: 14px; }
+  .qa-card { background: white; border-radius: 12px; padding: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 20px; }
+  .qa-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
+  .qa-badge { display: inline-block; padding: 4px 10px; border-radius: 20px; font-size: 12px; font-weight: 600; }
+  .qa-badge.easy { background: #e8f5e9; color: #4caf50; }
+  .qa-badge.medium { background: #fff3e0; color: #ff9800; }
+  .qa-badge.hard { background: #ffebee; color: #f44336; }
+  .video-wrapper { width: 100%; margin-bottom: 20px; background: #000; border-radius: 8px; overflow: hidden; }
+  .video-wrapper video { width: 100%; display: block; }
+  .video-wrapper iframe { width: 100%; height: 400px; border: none; }
+  .question-text { font-size: 16px; line-height: 1.5; margin-bottom: 15px; font-weight: 500; }
+  .choices { display: grid; gap: 8px; }
+  .choice-btn { padding: 12px 16px; border: 2px solid #e0e0e0; border-radius: 8px; background: white; cursor: pointer; text-align: left; font-size: 14px; transition: all 0.2s; }
+  .choice-btn:hover { border-color: #4a90d9; background: #f8fbff; }
+  .choice-btn.selected { border-color: #4a90d9; background: #e8f0fe; }
+  .nav-btn { padding: 12px 24px; border: none; border-radius: 8px; font-size: 14px; font-weight: 600; cursor: pointer; transition: background 0.2s; }
+  .nav-btn.next { background: #4a90d9; color: white; }
+  .nav-btn.next:hover { background: #3a7bc8; }
+  .nav-btn.next:disabled { background: #ccc; cursor: not-allowed; }
+  .nav-btn.prev { background: #e0e0e0; color: #333; }
+  .nav-row { display: flex; justify-content: space-between; margin-top: 20px; }
+  .submit-btn { width: 100%; padding: 16px; background: #4caf50; color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: 600; cursor: pointer; }
+  .submit-btn:hover { background: #43a047; }
+  .done-card { text-align: center; padding: 60px 30px; }
+  .done-card h2 { font-size: 1.5em; margin-bottom: 15px; color: #4caf50; }
+  .hidden { display: none; }
+</style>
+</head>
+<body>
+
+<!-- Setup Page -->
+<div id="setup-page" class="container">
+  <h1>Werewolf 2.0</h1>
+  <p class="subtitle">Human Evaluation for Social Gaze & Gesture Understanding</p>
+
+  <div class="setup-card">
+    <h2>Evaluator Info</h2>
+    <label for="eval-name">Your Name / ID</label>
+    <input type="text" id="eval-name" placeholder="e.g., John">
+  </div>
+
+  <div class="setup-card">
+    <h2>Questions per Category</h2>
+    <p>Select how many questions per category. Total = 16 categories &times; your choice.</p>
+    <div class="option-grid">
+      <div class="option-btn" data-n="1" onclick="selectN(this)">1<br><small>16 Qs</small></div>
+      <div class="option-btn selected" data-n="2" onclick="selectN(this)">2<br><small>32 Qs</small></div>
+      <div class="option-btn" data-n="3" onclick="selectN(this)">3<br><small>48 Qs</small></div>
+      <div class="option-btn" data-n="4" onclick="selectN(this)">4<br><small>64 Qs</small></div>
+    </div>
+  </div>
+
+  <div class="setup-card">
+    <div class="info">
+      <strong>Instructions:</strong><br>
+      1. Watch each video clip carefully<br>
+      2. Read the question and select the best answer (A/B/C/D)<br>
+      3. Videos show bounding boxes around people (P0, P1, P2, ...)<br>
+      4. Pay attention to gaze direction, gestures, and timing
+    </div>
+
+    <table class="category-table">
+      <tr><th>Gaze (T)</th><th>Gesture (G)</th><th>Cross-Modal (C)</th></tr>
+      <tr>
+        <td><span class="easy">T1</span> Gaze Target ID</td>
+        <td><span class="easy">G1</span> Gesture Recognition</td>
+        <td><span class="medium">C1</span> Gaze-Gesture Align</td>
+      </tr>
+      <tr>
+        <td><span class="easy">T2</span> Gaze Event Class</td>
+        <td><span class="easy">G2</span> Gesture Type</td>
+        <td><span class="medium">C2</span> Gaze Response</td>
+      </tr>
+      <tr>
+        <td><span class="medium">T3</span> Mutual Gaze</td>
+        <td><span class="medium">G3</span> Gesture Temporal</td>
+        <td><span class="hard">C3</span> Eye Contact</td>
+      </tr>
+      <tr>
+        <td><span class="medium">T4</span> Gaze Following</td>
+        <td><span class="medium">G4</span> Reciprocal Gesture</td>
+        <td><span class="hard">C4</span> Cross-Modal Dynamics</td>
+      </tr>
+      <tr>
+        <td><span class="hard">T5</span> Temporal Gaze</td>
+        <td><span class="hard">G5</span> Gesture Frequency</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="hard">T6</span> Group Attention</td>
+        <td><span class="hard">G6</span> Gesture Sequence</td>
+        <td></td>
+      </tr>
+    </table>
+  </div>
+
+  <button class="start-btn" onclick="startEval()">Start Evaluation</button>
+</div>
+
+<!-- Eval Page -->
+<div id="eval-page" class="eval-container hidden">
+  <div class="progress-text" id="progress-text"></div>
+  <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+
+  <div class="qa-card" id="qa-card">
+    <div class="qa-header">
+      <span class="qa-badge" id="qa-badge"></span>
+      <span id="qa-cat" style="font-size:13px; color:#999;"></span>
+    </div>
+    <div class="video-wrapper" id="video-wrapper"></div>
+    <div class="question-text" id="question-text"></div>
+    <div class="choices" id="choices"></div>
+  </div>
+
+  <div class="nav-row">
+    <button class="nav-btn prev" onclick="prevQ()">← Previous</button>
+    <button class="nav-btn next" id="next-btn" onclick="nextQ()">Next →</button>
+  </div>
+</div>
+
+<!-- Done Page -->
+<div id="done-page" class="container hidden">
+  <div class="setup-card done-card">
+    <h2>Evaluation Complete!</h2>
+    <p>Your responses have been recorded. Thank you!</p>
+    <p id="result-summary" style="margin-top:15px; color:#666;"></p>
+  </div>
+</div>
+
+<script>
+// Config - UPDATE THIS with your Google Drive folder ID and Sheets Web App URL
+const DRIVE_FOLDER_ID = '136BpBKg91PYxskoZ3sK9LWPkNSe-tZg4';
+const SHEETS_WEBHOOK = ''; // Google Apps Script Web App URL (optional)
+
+let manifest = [];
+let selectedItems = [];
+let currentIdx = 0;
+let responses = {};
+let numPerCat = 2;
+
+function selectN(el) {
+  document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('selected'));
+  el.classList.add('selected');
+  numPerCat = parseInt(el.dataset.n);
+}
+
+async function startEval() {
+  const name = document.getElementById('eval-name').value.trim();
+  if (!name) { alert('Please enter your name/ID'); return; }
+
+  // Load manifest
+  const resp = await fetch('manifest.json');
+  manifest = await resp.json();
+
+  // Group by category and sample
+  const byCat = {};
+  manifest.forEach((item, idx) => {
+    item._idx = idx;
+    if (!byCat[item.category]) byCat[item.category] = [];
+    byCat[item.category].push(item);
+  });
+
+  selectedItems = [];
+  const cats = ['T1','T2','T3','T4','T5','T6','G1','G2','G3','G4','G5','G6','C1','C2','C3','C4'];
+  cats.forEach(cat => {
+    const pool = byCat[cat] || [];
+    // Shuffle
+    for (let i = pool.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [pool[i], pool[j]] = [pool[j], pool[i]];
+    }
+    selectedItems.push(...pool.slice(0, numPerCat));
+  });
+
+  currentIdx = 0;
+  responses = {};
+  document.getElementById('setup-page').classList.add('hidden');
+  document.getElementById('eval-page').classList.remove('hidden');
+  renderQ();
+}
+
+function getVideoEmbedUrl(filename) {
+  // For Google Drive hosted videos, we need file ID
+  // Since we can't look up IDs from GitHub Pages, use direct Drive folder browsing
+  // Alternative: host videos in the repo or use a mapping file
+  return `https://drive.google.com/file/d/VIDEO_ID/preview`;
+}
+
+function renderQ() {
+  const item = selectedItems[currentIdx];
+  const total = selectedItems.length;
+
+  document.getElementById('progress-text').textContent = `Question ${currentIdx + 1} of ${total}`;
+  document.getElementById('progress-fill').style.width = `${(currentIdx + 1) / total * 100}%`;
+
+  const badge = document.getElementById('qa-badge');
+  badge.textContent = item.difficulty;
+  badge.className = 'qa-badge ' + item.difficulty;
+  document.getElementById('qa-cat').textContent = item.category;
+
+  // Video - try Drive embed via video_links mapping, fallback to placeholder
+  const wrapper = document.getElementById('video-wrapper');
+  if (window.videoLinks && window.videoLinks[item.video_file]) {
+    wrapper.innerHTML = `<iframe src="${window.videoLinks[item.video_file]}" allowfullscreen></iframe>`;
+  } else {
+    // Fallback: show filename and try direct embed from relative path
+    wrapper.innerHTML = `<video controls preload="auto"><source src="videos/${item.video_file}" type="video/mp4">Your browser does not support video.</video>`;
+  }
+
+  document.getElementById('question-text').textContent = item.question;
+
+  const choicesDiv = document.getElementById('choices');
+  choicesDiv.innerHTML = '';
+  item.options.forEach((opt, i) => {
+    const btn = document.createElement('div');
+    btn.className = 'choice-btn' + (responses[currentIdx] === i ? ' selected' : '');
+    btn.textContent = opt;
+    btn.onclick = () => selectChoice(i);
+    choicesDiv.appendChild(btn);
+  });
+
+  // Update nav
+  const nextBtn = document.getElementById('next-btn');
+  if (currentIdx === total - 1) {
+    nextBtn.textContent = 'Submit';
+    nextBtn.onclick = submitEval;
+  } else {
+    nextBtn.textContent = 'Next →';
+    nextBtn.onclick = nextQ;
+  }
+}
+
+function selectChoice(idx) {
+  responses[currentIdx] = idx;
+  document.querySelectorAll('.choice-btn').forEach((btn, i) => {
+    btn.classList.toggle('selected', i === idx);
+  });
+}
+
+function nextQ() {
+  if (responses[currentIdx] === undefined) { alert('Please select an answer'); return; }
+  if (currentIdx < selectedItems.length - 1) {
+    currentIdx++;
+    renderQ();
+    window.scrollTo(0, 0);
+  }
+}
+
+function prevQ() {
+  if (currentIdx > 0) {
+    currentIdx--;
+    renderQ();
+    window.scrollTo(0, 0);
+  }
+}
+
+function submitEval() {
+  if (responses[currentIdx] === undefined) { alert('Please select an answer'); return; }
+
+  const name = document.getElementById('eval-name').value.trim();
+  const results = selectedItems.map((item, i) => ({
+    evaluator: name,
+    category: item.category,
+    difficulty: item.difficulty,
+    video_file: item.video_file,
+    question: item.question,
+    selected: String.fromCharCode(65 + (responses[i] || 0)),
+    answer: item.answer,
+    correct: String.fromCharCode(65 + (responses[i] || 0)) === item.answer,
+  }));
+
+  // Calculate stats
+  const correct = results.filter(r => r.correct).length;
+  const total = results.length;
+
+  // Send to Google Sheets if webhook configured
+  if (SHEETS_WEBHOOK) {
+    fetch(SHEETS_WEBHOOK, {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ evaluator: name, results: results }),
+    });
+  }
+
+  // Also download as JSON
+  const blob = new Blob([JSON.stringify(results, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `human_eval_${name}_${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+
+  // Show done page
+  document.getElementById('eval-page').classList.add('hidden');
+  document.getElementById('done-page').classList.remove('hidden');
+  document.getElementById('result-summary').textContent = `Score: ${correct}/${total} (${(correct/total*100).toFixed(1)}%)`;
+}
+</script>
+</body>
+</html>
